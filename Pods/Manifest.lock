@@ -1,0 +1,29 @@
+PODS:
+  - Alamofire (4.7.1)
+  - EmptyDataSet-Swift (4.0.4)
+  - SDWebImage (4.3.3):
+    - SDWebImage/Core (= 4.3.3)
+  - SDWebImage/Core (4.3.3)
+  - SwiftSoup (1.7.1)
+  - SwiftyJSON (4.0.0)
+  - Toast-Swift (3.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - EmptyDataSet-Swift (~> 4.0.4)
+  - SDWebImage (~> 4.0)
+  - SwiftSoup
+  - SwiftyJSON
+  - Toast-Swift (~> 3.0.1)
+
+SPEC CHECKSUMS:
+  Alamofire: 68d7d521118d49c615a8d2214d87cdf525599d30
+  EmptyDataSet-Swift: 935ce169c6d4abe371bbc5dd92bcf9ee4dddb1bd
+  SDWebImage: de4d90b5bff3571eae7bd16202b1f43135409fa5
+  SwiftSoup: 277f7ef548826e0ca7603a06b30d4a5df3ee0587
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+  Toast-Swift: ba0b01b095aada709d915f9beb1d38184a2721c3
+
+PODFILE CHECKSUM: f7f3a0b0c40f45cb99a11e8a18ca1b08b3a91f4d
+
+COCOAPODS: 1.4.0

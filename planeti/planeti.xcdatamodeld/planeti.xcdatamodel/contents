@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="13772" systemVersion="17C88" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Tammir" representedClassName="Tammir" syncable="YES" codeGenerationType="class">
+        <attribute name="taamira" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="team1" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="team2" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="userid" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Tammir" positionX="-63" positionY="-18" width="128" height="105"/>
+    </elements>
+</model>
